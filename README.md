@@ -1,2 +1,2 @@
-# livros
-Curadoria de Livros indicados pela comunidade.
+# Livros
+<p>Curadoria de Livros indicados pela comunidade.</p>
